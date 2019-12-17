@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0098A6</color>
+    <color name="colorPrimaryDark">#007986</color>
+    <color name="colorAccent">#00BCD4</color>
+
+    <color name="defaultIconColor">@android:color/white</color>
+
+    <color name="primaryTextColor">@android:color/white</color>
+    <color name="secondaryTextColor">@android:color/black</color>
+    <color name="tertiaryTextColor">#7F919F</color>
+
+    <array name="contactInitialBackgroundColors">
+        <item>#BCABA4</item>
+        <item>#B39DDB</item>
+        <item>#C5E1A6</item>
+        <item>#B0BFC6</item>
+        <item>#00BCD4</item>
+        <item>#006796</item>
+    </array>
+</resources>
